@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Figures.View/1.0.0": {
+        "dependencies": {
+          "Figures.ViewModel": "1.0.0"
+        },
+        "runtime": {
+          "Figures.View.dll": {}
+        }
+      },
+      "Figures.ViewModel/1.0.0": {
+        "runtime": {
+          "Figures.ViewModel.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Figures.View/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Figures.ViewModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

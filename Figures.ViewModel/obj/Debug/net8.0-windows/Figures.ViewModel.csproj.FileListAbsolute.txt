@@ -1,0 +1,11 @@
+C:\Users\Artem\RiderProjects\Figures\Figures.ViewModel\bin\Debug\net8.0-windows\Figures.ViewModel.deps.json
+C:\Users\Artem\RiderProjects\Figures\Figures.ViewModel\bin\Debug\net8.0-windows\Figures.ViewModel.dll
+C:\Users\Artem\RiderProjects\Figures\Figures.ViewModel\bin\Debug\net8.0-windows\Figures.ViewModel.pdb
+C:\Users\Artem\RiderProjects\Figures\Figures.ViewModel\obj\Debug\net8.0-windows\Figures.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artem\RiderProjects\Figures\Figures.ViewModel\obj\Debug\net8.0-windows\Figures.ViewModel.AssemblyInfoInputs.cache
+C:\Users\Artem\RiderProjects\Figures\Figures.ViewModel\obj\Debug\net8.0-windows\Figures.ViewModel.AssemblyInfo.cs
+C:\Users\Artem\RiderProjects\Figures\Figures.ViewModel\obj\Debug\net8.0-windows\Figures.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\Artem\RiderProjects\Figures\Figures.ViewModel\obj\Debug\net8.0-windows\Figures.ViewModel.dll
+C:\Users\Artem\RiderProjects\Figures\Figures.ViewModel\obj\Debug\net8.0-windows\refint\Figures.ViewModel.dll
+C:\Users\Artem\RiderProjects\Figures\Figures.ViewModel\obj\Debug\net8.0-windows\Figures.ViewModel.pdb
+C:\Users\Artem\RiderProjects\Figures\Figures.ViewModel\obj\Debug\net8.0-windows\ref\Figures.ViewModel.dll
